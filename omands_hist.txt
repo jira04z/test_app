@@ -1,0 +1,149 @@
+    1  ls
+    2  pwd
+    3  mkdr test_app
+    4  mkdir test_app
+    5  ls
+    6  cd test_app
+    7  cd test_app
+    8  ls
+    9  mv old_name new_name
+   10  cd test_app
+   11  ls
+   12  pwd
+   13  ls -a
+   14  ls-al
+   15  ls -al
+   16  git init
+   17  ls -a
+   18  cd test_app
+   19  cd test_app
+   20  pwd
+   21  ls
+   22  git init
+   23  ls -a
+   24  rm -r .git
+   25  ls -a
+   26  git config --list
+   27  git cofi --global user.name 'jira04z'
+   28  git config --global user.name 'jira04z'
+   29  git config --global user.email 'dimplerlk2204kumari@gmail.com'
+   30  git config --list
+   31  ls
+   32  cd test_app
+   33  ls
+   34  git init
+   35  ls -a
+   36  ls -al
+   37  rm -r .git
+   38  ls -a
+   39  git config --list
+   40  git config --global user.name 'jira04z'
+   41  git config --global user.email 'dimplerlk2204kumari@gmail.com'
+   42  git config --list
+   43  git remote -v
+   44  git remote add origin master https://github.com/jira04z/RAJ-LAXMI-KUMAR.git
+   45  cd RAJ-LAXMI-KUMAR
+   46  git remote add origin master https://github.com/jira04z/test_app.git
+   47  git remote -v
+   48  git remote add origin master https://github.com/jira04z/test_app.git
+   49  git config --list
+   50  git remote add origin https://github.com/jira04z/test_app.git
+   51  ls -a
+   52  cd test_app
+   53  ls
+   54  pwd
+   55  git init
+   56  ls -a
+   57  rm -r .git
+   58  ls
+   59  git config --list
+   60  clear
+   61  git config --list
+   62  clear
+   63  git config --global user.name 'jira04z'
+   64  git config --global user.email 'dimplerlk2204kumari@gmail.com'
+   65  git config --list
+   66  git remote -v
+   67  git remote add origin https://github.com/jira04z/test_app.git
+   68  git remote -v
+   69  git remote add origin https://github.com/jira04z/test_app.git
+   70  git remote remove origin
+   71  git remote add origin https://github.com/jira04z/test_app.git
+   72  clear
+   73  ls
+   74  ls
+   75  git statue
+   76  git status
+   77  echo "# test_app" >> README.md
+   78  git init
+   79  git add README.md
+   80  git commit -m "first commit"
+   81  git branch -M main
+   82  git remote add origin https://github.com/jira04z/test_app.git
+   83  git push -u origin main
+   84  git remote -v
+   85  clear
+   86  ls
+   87  git status
+   88  git add f1.text
+   89  git add f1.txt
+   90  clear
+   91  ls
+   92  git status
+   93  git rm --cached f1.txt
+   94  git status
+   95  git add f1.txt f2.py
+   96  git status
+   97  git rm --cached f1.txt f2.py
+   98  git status
+   99  git add .
+  100  git status
+  101  cd
+  102  cd test_app
+  103  ls
+  104  git init
+  105  clear
+  106  git init
+  107  ls -a
+  108  git remote -v
+  109  clear
+  110  git status
+  111  cd test_app
+  112  ls
+  113  clear
+  114  cd test_app
+  115  pwd
+  116  ls
+  117  clear
+  118  cd test_app
+  119  pwd
+  120  ls test_app
+  121  cd test_app
+  122  ls
+  123  pwd
+  124  git remote -v
+  125  git status
+  126  git commit -m 'my firt commit'
+  127  git status
+  128  git push -f origin main
+  129  git remote -v
+  130  git push -f origin main
+  131  git pull
+  132  git branch --set-upstream-to=origin/main
+  133  history > omands_hist.txt
+  134  git pull
+  135  cat f2.py
+  136  history > omands_hist.txt
+  137  git log
+  138  git revert [200~4b0c364ec3a15a652bd4b6d20859bfb8aa5d313a
+  139  git revert 4b0c364ec3a15a652bd4b6d20859bfb8aa5d313a
+  140   git revert 4b0c364ec3a15a652bd4b6d20859bfb8aa5d313a
+  141   git revert 4b0c364ec3a15a652bd4b6d20859bfb8aa5d313a
+  142  git log
+  143  git pull
+  144  This reverts commit 4b0c364ec3a15a652bd4b6d20859bfb8aa5d313a
+  145   
+  146  This reverts commit c5483a01dfe1c08a817dac0f6238d509585a447d 
+  147  git revert c5483a01dfe1c08a817dac0f6238d509585a447d
+  148   git revert c5483a01dfe1c08a817dac0f6238d509585a447d
+  149  history > omands_hist.txt
